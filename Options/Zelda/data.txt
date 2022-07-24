@@ -1,0 +1,4 @@
+[Title] Zelda
+{Description] A tutorial about creating Zelda-style RPG in Pygame
+[Command] python3 /home/pi/Zelda/code/main.py
+[Author] Clear Code Projects

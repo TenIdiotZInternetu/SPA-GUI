@@ -1,0 +1,4 @@
+[Title] Bullet Hell
+[Description] :D
+[Command] python3 /home/pi/Game/Code/Startup.py
+[Author] Adam Balko

@@ -1,0 +1,4 @@
+[Title] RetroPie
+[Desc] Súbor emulátorov retro hier
+[Command] sudo -u pi emulationstation
+[Author] RetroPie.org
